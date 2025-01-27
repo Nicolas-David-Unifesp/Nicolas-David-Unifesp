@@ -24,6 +24,6 @@ Meu principal objetivo é continuar aprendendo, melhorar minhas habilidades de c
 ---
 
 📬 **Como me encontrar:**
-- LinkedIn: [Nicolas David da Cruz Santos]([linkedin.com/in/nicolas-david-da-cruz-santos)
+- LinkedIn: [Nicolas David da Cruz Santos](https://www.linkedin.com/in/nicolas-david-da-cruz-santos/)
 - E-mail: nicolas.david@unifesp.br
 

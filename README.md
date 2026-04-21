@@ -4,14 +4,23 @@
 💻 **Apaixonado por Programação** e em constante aprendizado  
 🚀 Focado em **desenvolvimento de software** e **desafios de programação**
 
-## 🔧 Tecnologias que estou aprendendo
-- Linguagens: **C**, **Python**
+## 🔧 Tecnologias Aprendidas
+- Linguagens: **C**, **Python**, **Typescript**,**SQL**, **Javascript**, **C#** e **Assembly**
 - Ferramentas: **Git**, **GitHub**, **VSCode**
 - **Data Structures & Algorithms**
+- **Database**
+- **Object-oriented programming**
 
-## 📚 O que estou fazendo agora
-- 🚀 Trabalhando em desafios de programação no **Beecrowd**
-- 📖 Estudando **estruturas de dados** e **algoritmos** para aprimorar minhas habilidades de programação.
+## 📚 O que já fiz até agora?
+- 🚀 Trabalhei em desafios de programação no **Beecrowd**
+- 📖 Estudei **estruturas de dados** e **algoritmos**
+- 🚀 Auxiliei na criação de jogos feitos em UNITY
+- 📖 Aprendizagem de treinamento de LLMs
+- 🚀 Criação de um site para um projeto da matéria de **Programação Orientada a Objetos**
+
+## 📚 O que estou aprendendo?
+- Padrões de Projeto Orientados a Objeto
+- Cálculo Numérico relacionado a IA
 <!--
 ## 💻 Projetos em destaque
 - [**Projeto 1**](link-para-o-projeto): Descrição breve do projeto.
